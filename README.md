@@ -1,3 +1,3 @@
 # 20171CSE0203
-IT Lab
-Welcome NIkitha
+CSE IT Lab
+Welcome Nikitha
