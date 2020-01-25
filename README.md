@@ -1,3 +1,4 @@
 # 20171CSE0203
-IT course
+
+CSE IT Lab
 Welcome Nikitha
