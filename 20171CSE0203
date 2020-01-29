@@ -62,8 +62,7 @@
             <h3>Technical Skills</h3>
             <p>
             <ul>
-                <li>
-                <span id="course-name">Operating Systems:</span> DOS, Windows 98, Windows 2000, Windows XP, Windows NT, Windows Server 2003, Windows Vista, Windows 7, Macintosh Computers (OS X), Linux (Ubuntu)</li>
+               
                 <li>
                 <span id="course-name">Programming Skills:</span> Python, Java, C , C++ and learning HTML</li></ul>
             </p>
@@ -80,12 +79,10 @@
             <h3>Other Information</h3>
             <p>
             <ul>
-                <li>
-                <span id="course-name">Expected Salary:</span>As per company standards</li>
+               
                 <li>
                 <span id="course-name">Area of Interest:</span>Software Development, Programming, Start-ups, Coding, App Development, Customer Happiness, Client service</li>
-                <li>
-                <span id="course-name">Joining Date:</span>Immediate</li></ul>
+               </ul>
             </p>
             <h3>Declaration</h3>
             <p>
