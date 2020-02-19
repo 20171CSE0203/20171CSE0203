@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+ <head>
+<title></title>
+</head>
+<body style="background-color:powderblue;">
+  <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2IOEavQHWcPe0flv1NV-_Z3XIjLJgvzlVe0bANoy4jojgu_hT"  align="right" height="100" width="100" /></br> 
+<div id="header">
+<p align="center" id="name" style="font-weight: bold;">G.Nikitha</p>
+         <p><span style="float:left" id="email"><a href="mailto:nikithanani912@gmail.com" target="_blank">nikithanani912@gmail.com</a></span><span style="float:right" id="contact">Contact : +91 9381351109</span></p>
+         
+</div> 
+     <div class="right">
+       <br>
+<hr> 
+            <h3>CV Highlights</h3>
+            <ul>
+  <li>Currently going through HTML Course-Internet Technologies.</li>
+  <li>Learnt basic Java,Python,C,DBMS.</li>
+  <li>An independent,dedicated,hardworking person.</li>
+  <li>Good communication skills,Presentation skills,attitude towards Leadership and a very good team player.</li>
+</ul> <hr>
+            <h3>Professional Experience</h3>
+            <p>Worked as an intern at InnovatorsBay Technologies Pvt Ltd for 2 months.</p>  
+            <h4>Job Responsibilities:</h4>
+            <ul>
+     <li>Worked as an Back-end Developer in developing an Android Application.</li>
+     <li>Managing the Database:<ul>
+   <li> Storing details of the users.</li>
+   <li> Editing the user details when needed.</li>
+   <li>Storing the data into database.</li>
+ </ul></li>
+     <li>Establishing the connection to the server using java.</li>
+     <li>Contribute ideas to team on solving the queries and bugs.</li> 
+ </ul> <hr>      
+            <h3>Educational Qualifications</h3></div>
+            <table border='1' cellpadding='5' cellspacing='5'>
+                <tr id="heading">
+                    <td style="font-weight: bold;">Qualification</td>
+                    <td style="font-weight: bold;">Board</td>
+                    <td style="font-weight: bold;">Percentage / CGPA </td>
+                    <td style="font-weight: bold;">Year of Passing</td>
+                </tr>
+                <tr>
+                    <td>S.S.C</td>
+                    <td>Andhra Pradesh State Board</td>
+                    <td>8.7</td>
+                    <td>2015</td>
+                </tr>
+                <tr>
+                    <td>M.P.C</td>
+                    <td>Andhra Pradesh State Board</td>
+                    <td>96.7%</td>
+                    <td>2017</td>
+                </tr>
+                <tr>
+                    <td>B.tech-CSE(Computer science)  </td>
+                    <td>Presidency University , Bangalore </td>
+                    <td>8.13</td>
+                    <td>not yet finished</td>
+                </tr>
+            </table>
+           <a href="http://www.presidencyuniversity.in"> my university</a></br>
+           
+          
+           <hr>
+            <h3>Technical Skills</h3>
+            <p>
+            <ul>
+                <li>
+                <span id="course-name" style="font-weight: bold;">Programming Skills:</span> Python, Java, C , basics of database management and learning HTML.</li> 
+<li><span id="basics" style="font-weight: bold;">Application Software:</span> Basics of Ms-Office.</li></ul>
+            </p>
+  <hr>
+ <h3>Awards/Certifications/Extra-Curricular</h3>
+ <p>
+ <ul>
+   <li>Volunteered for "MERAKI", cultural fest at Presidency University,2019</li>
+   <li>Member of NSS Committee in Presidency University</li>
+ </ul></p><hr>
+            <h3>Personal Information</h3>
+            <p>
+            <ul>
+                <li>
+                A young, determined hard and smart working person. I believe in task based roles and complete ownership of work.</li>
+                <li>
+                <span id="course-name"style="font-weight: bold;">Languages Known:</span>English, Hindi, Telugu and Kannada</li>
+                <li>
+                <span id="course-name" style="font-weight: bold;">Hobbies:</span>reading novels and IT related books / magazines, playing Carrom, listening music,watching movies,Dancing,Travelling.</li> </ul>
+            </p></br>
+         
+     </div>
+     <div id="footer"></div>
+    </body>
+</html>
